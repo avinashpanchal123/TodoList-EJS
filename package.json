@@ -1,0 +1,25 @@
+{
+  "name": "todolist-ejs",
+  "version": "1.0.0",
+  "description": "making todo list app using EJS &amp; express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashpanchal123/TodoList-EJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashpanchal123/TodoList-EJS/issues"
+  },
+  "homepage": "https://github.com/avinashpanchal123/TodoList-EJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
